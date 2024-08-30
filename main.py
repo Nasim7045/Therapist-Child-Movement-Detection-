@@ -59,6 +59,6 @@ def process_video(input_video_path, output_video_path):
     cv2.destroyAllWindows()
 
 if __name__ == "__main__":
-    input_video_path = 'C:/Users/ASUS/THERAPIST CHILD DETECTION PROJECT/data/videos/videoplayback.mp4' #replace your video titles here
+    input_video_path = 'C:/Users/ASUS/THERAPIST CHILD DETECTION PROJECT/data/videos/XYZ.mp4' #replace your video titles here
     output_video_path = 'C:/Users/ASUS/THERAPIST CHILD DETECTION PROJECT/data/outputs/output.mp4'
     process_video(input_video_path, output_video_path)
